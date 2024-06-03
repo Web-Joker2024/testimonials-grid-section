@@ -113,7 +113,7 @@ background-color: hsl(0, 0%, 100%);
 .border1{
     border: 2px solid whitesmoke;
 }
-@media (width > 650px) and (width < 900px) {
+@media (width > 370px) and (width < 780px) {
     main{
         padding: 10px;
     display: grid;
